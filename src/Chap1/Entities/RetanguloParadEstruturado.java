@@ -1,7 +1,8 @@
-import java.io.*;
+package Chap1.Entities;
+
 import java.util.*;
 
-public class Retangulo {
+public class RetanguloParadEstruturado {
 
     public static void main(String[] args) {
         float altura, largura, area, perimetro;
