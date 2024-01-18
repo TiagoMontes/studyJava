@@ -1,4 +1,6 @@
-package Chap1.Entities;
+package Chap1;
+
+import Entities.Retangulo;
 
 import java.util.*;
 

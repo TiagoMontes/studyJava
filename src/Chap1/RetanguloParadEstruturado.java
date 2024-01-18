@@ -1,4 +1,4 @@
-package Chap1.Entities;
+package Chap1;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Chap1.Entities;
+package Entities;
 
 public class Retangulo
 {
